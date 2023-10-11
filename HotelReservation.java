@@ -1,5 +1,3 @@
-package assignment1;
-
 public class HotelReservation extends Reservation {
     private Hotel hotel;
     private String room_type;
