@@ -1,5 +1,3 @@
-package assignment1;
-
 public class Customer {
     private String customer_name;
     private int balance;
