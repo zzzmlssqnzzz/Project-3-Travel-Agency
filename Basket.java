@@ -1,5 +1,3 @@
-package assignment1;
-
 public class Basket{
     private Reservation[]reservations;
     public Basket(){
