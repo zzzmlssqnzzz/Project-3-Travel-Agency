@@ -1,5 +1,3 @@
-package assignment1;
-
 public class Hotel {
     private String hotel_name;
     private Room[]rooms;
