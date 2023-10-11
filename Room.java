@@ -1,4 +1,3 @@
-package assignment1;
 public class Room {
     private String room_type;
     private int room_price;
