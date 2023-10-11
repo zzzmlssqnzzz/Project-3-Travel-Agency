@@ -1,5 +1,3 @@
-package assignment1;
-
 public class FlightReservation extends Reservation{
     private Airport departure;
     private Airport arrival;
