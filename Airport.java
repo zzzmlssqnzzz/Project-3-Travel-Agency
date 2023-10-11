@@ -1,4 +1,3 @@
-package assignment1;
 public class Airport{
         private int x_coordinate;
         private int y_coordinate;
